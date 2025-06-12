@@ -9,3 +9,11 @@ author:
   url: https://linkedin.com/in/yourprofile
 
 theme_mode: auto  # enables dark/light switch
+
+nav:
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: CV
+    url: /cv/
