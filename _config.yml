@@ -31,9 +31,9 @@ youtube_username:
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: github
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://github.com/Saeed-Alneyadi
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: https://media.licdn.com/dms/image/v2/D5603AQHcb2mNGfON7Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703181423871?e=1756944000&v=beta&t=r1jieBV59R9BNSJYaiLEU4ZKVw3tcuucf6jl6mGO6iU
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Saeed, a Computer Science and Engineering graduate from The Ohio State University with a strong interest in Artificial Intelligence, Cybersecurity, and Data Analytics. I’ve completed two internships and worked on several projects, including a recipe recommendation web app using Flask, Docker, and Elasticsearch, as well as an algorithmic trading system integrating Alpaca API and sentiment analysis. I'm passionate about building intelligent and secure systems, continuously expanding my portfolio, and preparing for AI and cybersecurity competitions. When I’m not coding, you’ll likely find me jogging or taking on push-up challenges.
 
@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: AI-Powered Recipe Recommendation Project
         link: github.com/saeed-alneyadi
         # link_text: Project Website
         additional_links:
@@ -68,9 +68,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest projects ever created, if you don't agree you're probably wrong.
+          Turning ingredients into personalized meals using AI-driven search.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          As part of my graduation project, I led the development of a smart recipe recommendation engine that enables users to discover meals based on available ingredients. The web-based system utilized Elasticsearch, Docker, and Flask, integrating AI models to enhance accuracy and user experience. I worked within an eight-person team, adopting agile methodologies to coordinate development, testing, and iterative feature releases. This project sharpened my backend engineering, API design, and collaboration skills—culminating in a user-focused product ready for real-world use.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,9 +107,6 @@ content:
       - Swimming
       - Gaming
       - Football
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
